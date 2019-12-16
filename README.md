@@ -12,3 +12,5 @@ Aplikasi ini juga ditunjukan untuk submission pada Kelas Belajar Membuat Aplikas
 https://www.dicoding.com/academies/51
 
 Informasi aplikasi ini bersumber dari : https://www.codepolitan.com/versi-versi-android-hingga-saat-ini-59c4ba1c88350
+
+![alt text](https://github.com/ayarzuki/Android-s-History-App/blob/master/Sertifikat%20Kelulusan%20Kelas%20Belajar%20Membuat%20Aplikasi%20Android%20untuk%20Pemula%20Dicoding.JPG)
